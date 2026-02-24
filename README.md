@@ -1,4 +1,5 @@
 # DEWPython
+(modified from poriginal to force utf-8 encoding, update resoure loading)
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![DOI](https://zenodo.org/badge/290678733.svg)](https://zenodo.org/badge/latestdoi/290678733)

@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name='DEWPython_mod',
+    name='DEWPython',
     version='2.0.0',
     author='Eisenh',
     author_email='andrew@eisenhawer.ca',
